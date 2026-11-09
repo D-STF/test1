@@ -1,3 +1,3 @@
 Игра, в которой требуется кастить заклинания персонажа Invoker из компьютерной игры Dota 2 на время, используя сочетания 3 клавиш из букв Q W E. Порядок выбора клавиш не важен (qqw = qwq).
 Всего в игре 10 заклинаний:
-file:///home/student/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202026-11-09%2010-34-20.png
+https://photobooth.cdn.sports.ru/preset/message/0/66/f91c78b9f48eda58ba781e6d0f8e2.jpeg?f=webp&q=90&s=2x&w=730****
